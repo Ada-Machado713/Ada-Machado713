@@ -1,7 +1,8 @@
+:mag: Sobre mi:
   Ingeniera de Calidad con Pasión por la Excelencia
-🔍 Especialista en QA manual dedicada a elevar la calidad del software y resolver desafíos complejos.
+🔍 Actualmente desempeñandome como Gerente de IT en una empresa retail encargada de desarrollo de software y manejo de la ciberseguridad.
+Especialista en QA manual dedicada a elevar la calidad del software y resolver desafíos complejos.
 🌱 Experta en:
-
 1. Diseño estratégico de pruebas
 2. Ejecución meticulosa de test cases
 3. Implementación de técnicas avanzadas de análisis
