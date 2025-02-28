@@ -1,16 +1,14 @@
-## Hi there 👋
+  Ingeniera de Calidad con Pasión por la Excelencia
+🔍 Especialista en QA manual dedicada a elevar la calidad del software y resolver desafíos complejos.
+🌱 Experta en:
 
-<!--
-**Ada-Machado713/Ada-Machado713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. Diseño estratégico de pruebas
+2. Ejecución meticulosa de test cases
+3. Implementación de técnicas avanzadas de análisis
+4. Dominio de métodos como clases de equivalencia y valores límite
 
-Here are some ideas to get you started:
+🚀 Experiencia inicial en pruebas manuales y automatizdas para plataformas web y móviles.
+⚡ Mi misión: Descubrir errores críticos para transformar ideas en productos excepcionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Cada bug encontrado es un paso más hacia la perfección del software"
+
