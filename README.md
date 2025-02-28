@@ -8,6 +8,7 @@
 4. Dominio de métodos como clases de equivalencia y valores límite
 
 🚀 Experiencia inicial en pruebas manuales y automatizdas para plataformas web y móviles.
+
 ⚡ Mi misión: Descubrir errores críticos para transformar ideas en productos excepcionales.
 
 "Cada bug encontrado es un paso más hacia la perfección del software"
