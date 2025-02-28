@@ -3,6 +3,7 @@
 Ingeniera de Calidad con Pasión por la Excelencia
  
 :computer:Actualmente desempeñandome como Gerente de IT en una empresa retail encargada de desarrollo de software y manejo de la ciberseguridad.
+
 :beginner:Ingeniera de Control de Calidad (QA) certificada, con experiencia práctica adquirida en un bootcamp intensivo. Apasionada por el QA manual y automatizado.
 
 🌱 Experta en:
