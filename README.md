@@ -1,3 +1,9 @@
+
+
+
+Hola, Soy Ada Machado puedes encontrarme en:
+ - [linkedin](https://www.linkedin.com/in/ada-machado-delgado/)
+____________________________________________________________________________________________________________________________________________________________________
 :mag:Sobre mi:
  
 Ingeniera de Calidad con Pasión por la Excelencia
@@ -6,7 +12,7 @@ Ingeniera de Calidad con Pasión por la Excelencia
 
 :beginner:Ingeniera de Control de Calidad (QA) certificada, con experiencia práctica adquirida en un bootcamp intensivo. Apasionada por el QA manual y automatizado.
 
-🌱 Experta en:
+:top:Experta en:
   1. Diseño estratégico de pruebas.
   2. Ejecución meticulosa de test cases.
   3. Implementación de técnicas avanzadas de análisis.
@@ -18,3 +24,4 @@ Ingeniera de Calidad con Pasión por la Excelencia
 
 "Cada bug encontrado es un paso más hacia la perfección del software"
 
+:white_check_mark:Herramientas y Tecnologías:
